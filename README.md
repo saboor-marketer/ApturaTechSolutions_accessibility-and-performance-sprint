@@ -2,7 +2,6 @@
 
 A responsive and interactive Tic Tac Toe game built with HTML5, CSS3, and vanilla JavaScript, featuring a clean and modern UI with light/dark mode support. **Enhanced with full accessibility features and performance optimizations.**
 
-![Tic Tac Toe Game](https://via.placeholder.com/800x500/0d6efd/ffffff?text=Tic+Tac+Toe+Game)
 
 ## Features
 
